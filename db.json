@@ -1,0 +1,3029 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "پیراهن",
+      "title": "پیراهن کتان مردانه 52300",
+      "mainImage": "/clothes/shirts/shirts1 (1).jpg",
+      "price": 3520000,
+      "desc": "پیراهن کتان مردانه، ضخیم، دارای یک جیب روی سینه، شیک و با کیفیت",
+      "images": [
+        "/clothes/shirts/shirts1 (2).jpg",
+        "/clothes/shirts/shirts1 (3).jpg",
+        "/clothes/shirts/shirts1 (4).jpg"
+      ],
+      "colors": [
+        "#8F9E7E",
+        "#FFFDD0",
+        "#FAF3E0"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "quantity": 0,
+      "rate": 4.5,
+      "discount": 5,
+      "date": "09/04/2025",
+      "type": ""
+    },
+    {
+      "id": 2,
+      "category": "پیراهن",
+      "title": "پیراهن آستین بلند مردانه 20516",
+      "mainImage": "/clothes/shirts/shirts2 (2).jpg",
+      "price": 2620000,
+      "desc": "پیراهن آستین بلند مردانه، بدون جیب، شیک و با کیفیت",
+      "images": [
+        "/clothes/shirts/shirts2 (1).jpg",
+        "/clothes/shirts/shirts2 (3).jpg",
+        "/clothes/shirts/shirts2 (4).jpg"
+      ],
+      "colors": [
+        "#acaa9b",
+        "#c8ab89",
+        "#b3babd",
+        "#d3cdb7"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ],
+      "quantity": 35,
+      "rate": 2.5,
+      "discount": 0,
+      "date": "09/05/2025",
+      "type": ""
+    },
+    {
+      "id": 3,
+      "category": "پیراهن",
+      "title": "پیراهن نیمه ضخیم ساده 68167",
+      "mainImage": "/clothes/shirts/shirts3 (2).jpg",
+      "price": 2995000,
+      "desc": "پیراهن نیمه ضخیم ساده، با پارچه نخ پنبه، بدون جیب، شیک و با کیفیت",
+      "images": [
+        "/clothes/shirts/shirts3 (1).jpg",
+        "/clothes/shirts/shirts3 (3).jpg",
+        "/clothes/shirts/shirts3 (4).jpg"
+      ],
+      "colors": [
+        "#e4d7b7",
+        "#121a1d",
+        "#747359"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ],
+      "quantity": 30,
+      "rate": 3.5,
+      "discount": 2,
+      "date": "09/06/2025",
+      "type": ""
+    },
+    {
+      "id": 4,
+      "category": "پیراهن",
+      "title": "پیراهن ضخیم مردانه 52302",
+      "mainImage": "/clothes/shirts/shirts4 (2).jpg",
+      "price": 3425000,
+      "desc": "پیراهن ضخیم مردانه، بدون جیب، شیک و با کیفیت",
+      "images": [
+        "/clothes/shirts/shirts4 (1).jpg",
+        "/clothes/shirts/shirts4 (3).jpg",
+        "/clothes/shirts/shirts4 (4).jpg"
+      ],
+      "colors": [
+        "#c9c8c2",
+        "#4a5b63",
+        "#000000",
+        "#6c6948"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ],
+      "quantity": 61,
+      "rate": 4.5,
+      "discount": 10,
+      "date": "09/05/2025",
+      "type": ""
+    },
+    {
+      "id": 5,
+      "category": "پیراهن",
+      "title": "پیراهن مخمل کبریتی 52290",
+      "mainImage": "/clothes/shirts/shirts5 (2).jpg",
+      "price": 3280000,
+      "desc": "پیراهن مخمل کبریتی، ضخیم، با برش معمولی، دارای دو جیب روی سینه، شیک و اسپرت",
+      "images": [
+        "/clothes/shirts/shirts5 (1).jpg",
+        "/clothes/shirts/shirts5 (3).jpg",
+        "/clothes/shirts/shirts5 (4).jpg"
+      ],
+      "colors": [
+        "#384026",
+        "#a17745",
+        "#504b45"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ],
+      "quantity": 72,
+      "rate": 4.5,
+      "discount": 0,
+      "date": "09/08/2025",
+      "type": ""
+    },
+    {
+      "id": 6,
+      "category": "پیراهن",
+      "title": "پیراهن کتی مردانه 52301",
+      "mainImage": "/clothes/shirts/shirts6 (2).jpg",
+      "price": 2970000,
+      "desc": "پیراهن کتی مردانه، ضخیم، دارای دو جیب روی سینه، شیک و با کیفیت",
+      "images": [
+        "/clothes/shirts/shirts6 (1).jpg",
+        "/clothes/shirts/shirts6 (3).jpg",
+        "/clothes/shirts/shirts6 (4).jpg"
+      ],
+      "colors": [
+        "#4a3d2a",
+        "#e4dec6",
+        "#000000"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ],
+      "quantity": 71,
+      "rate": 4.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": ""
+    },
+    {
+      "id": 7,
+      "category": "پیراهن",
+      "title": "پیراهن ضخیم مردانه 52292",
+      "mainImage": "/clothes/shirts/shirts7 (2).jpg",
+      "price": 3095000,
+      "desc": "پیراهن ضخیم مردانه، دارای یک جیب روی سینه، شیک و با کیفیت",
+      "images": [
+        "/clothes/shirts/shirts7 (1).jpg",
+        "/clothes/shirts/shirts7 (3).jpg",
+        "/clothes/shirts/shirts7 (4).jpg"
+      ],
+      "colors": [
+        "#c4c4b4"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ],
+      "quantity": 78,
+      "rate": 2.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": ""
+    },
+    {
+      "id": 8,
+      "category": "هودی و سوییشرت",
+      "title": "هودی کلاه دار 71270",
+      "mainImage": "/clothes/hoodies/hoodi1 (4).jpg",
+      "price": 3085000,
+      "desc": "هودی کلاه دار ساده، داخل کرک، با برش آزاد، راحت و لطیف، جیب دار",
+      "images": [
+        "/clothes/hoodies/hoodi1 (1).jpg",
+        "/clothes/hoodies/hoodi1 (2).jpg",
+        "/clothes/hoodies/hoodi1 (3).jpg"
+      ],
+      "colors": [
+        "#613a59",
+        "#114b56",
+        "#ffffff"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "quantity": 73,
+      "rate": 4.5,
+      "discount": 0,
+      "date": "09/13/2025",
+      "type": ""
+    },
+    {
+      "id": 9,
+      "category": "هودی و سوییشرت",
+      "title": "هودی کلاه دار 71279",
+      "mainImage": "/clothes/hoodies/hoodi2 (2).jpg",
+      "price": 3575000,
+      "desc": "هودی کلاه دار مردانه، با برش آزاد، راحت و لطیف، جیب دار",
+      "images": [
+        "/clothes/hoodies/hoodi2 (1).jpg",
+        "/clothes/hoodies/hoodi2 (4).jpg",
+        "/clothes/hoodies/hoodi2 (3).jpg"
+      ],
+      "colors": [
+        "#b1a885",
+        "#ffffff"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "quantity": 63,
+      "rate": 3.5,
+      "discount": 10,
+      "date": "09/13/2025",
+      "type": ""
+    },
+    {
+      "id": 10,
+      "category": "هودی و سوییشرت",
+      "title": "سویشرت شمعی کلاه دار 49182",
+      "mainImage": "/clothes/hoodies/hoodi3 (4).jpg",
+      "price": 3450000,
+      "desc": "سویشرت شمعی کلاه دار مردانه، دارای دو جیب کناری، یک جیب روی سینه و یک جیب داخلی، شیک و اسپرت",
+      "images": [
+        "/clothes/hoodies/hoodi3 (1).jpg",
+        "/clothes/hoodies/hoodi3 (2).jpg",
+        "/clothes/hoodies/hoodi3 (3).jpg"
+      ],
+      "colors": [
+        "#000",
+        "#ffffff",
+        "#6f440e"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "quantity": 63,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 11,
+      "category": "هودی و سوییشرت",
+      "title": "سویشرت کلاه دار 13262",
+      "mainImage": "/clothes/hoodies/hoodi4 (1).jpg",
+      "price": 4770000,
+      "desc": "سویشرت کلاه دار، با برش آزاد، دارای دو جیب کناری، شیک و اسپرت",
+      "images": [
+        "/clothes/hoodies/hoodi4 (4).jpg",
+        "/clothes/hoodies/hoodi4 (2).jpg",
+        "/clothes/hoodies/hoodi4 (3).jpg"
+      ],
+      "colors": [
+        "#000",
+        "#faf4e6",
+        "#ddd6c4"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "quantity": 62,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 12,
+      "category": "هودی و سوییشرت",
+      "title": "هودی کلاه دار 71288",
+      "mainImage": "/clothes/hoodies/hoodi5 (1).jpg",
+      "price": 3150000,
+      "desc": "هودی کلاه دار ساده، با برش آزاد، راحت و لطیف، جیب دار",
+      "images": [
+        "/clothes/hoodies/hoodi5 (4).jpg",
+        "/clothes/hoodies/hoodi5 (2).jpg",
+        "/clothes/hoodies/hoodi5 (3).jpg"
+      ],
+      "colors": [
+        "#000",
+        "#505155",
+        "#193a6f"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "quantity": 63,
+      "rate": 3.5,
+      "discount": 10,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 13,
+      "category": "هودی و سوییشرت",
+      "title": "سویشرت شمعی کلاه دار 49182",
+      "mainImage": "/clothes/hoodies/hoodi6 (1).jpg",
+      "price": 3450000,
+      "desc": "سویشرت شمعی کلاه دار مردانه، دارای دو جیب کناری، یک جیب روی سینه و یک جیب داخلی، شیک و اسپرت",
+      "images": [
+        "/clothes/hoodies/hoodi6 (4).jpg",
+        "/clothes/hoodies/hoodi6 (2).jpg",
+        "/clothes/hoodies/hoodi6 (3).jpg"
+      ],
+      "colors": [
+        "#000",
+        "#505155",
+        "#e8e0c2"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "quantity": 62,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": ""
+    },
+    {
+      "id": 14,
+      "category": "هودی و سوییشرت",
+      "title": "سویشرت مردانه 13264",
+      "mainImage": "/clothes/hoodies/hoodi7 (1).jpg",
+      "price": 3240000,
+      "desc": "سویشرت مردانه، کلاه دار، با برش آزاد، دارای دو جیب کناری، شیک و اسپرت",
+      "images": [
+        "/clothes/hoodies/hoodi7 (4).jpg",
+        "/clothes/hoodies/hoodi7 (2).jpg",
+        "/clothes/hoodies/hoodi7 (3).jpg"
+      ],
+      "colors": [
+        "#000",
+        "#ea9894",
+        "#e8e0c2",
+        "#15a860"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "quantity": 63,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": ""
+    },
+    {
+      "id": 15,
+      "category": "کاپشن",
+      "title": "کاپشن مردانه کلاه دار 16412",
+      "mainImage": "/clothes/kapshan/kapshan1 (1).jpg",
+      "price": 4830000,
+      "desc": "کاپشن مردانه کلاه دار، با قابلیت جداشدن کلاه، دارای دو جیب کناری و دو جیب داخلی، شیک و اسپرت",
+      "images": [
+        "/clothes/kapshan/kapshan1 (4).jpg",
+        "/clothes/kapshan/kapshan1 (2).jpg",
+        "/clothes/kapshan/kapshan1 (3).jpg"
+      ],
+      "colors": [
+        "#403e3f"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "quantity": 63,
+      "rate": 3.5,
+      "discount": 10,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 16,
+      "category": "کاپشن",
+      "title": "کاپشن ضخیم کلاه دار 51129",
+      "mainImage": "/clothes/kapshan/kapshan2 (1).jpg",
+      "price": 6900000,
+      "desc": "کاپشن ضخیم کلاه دار مردانه، با قابلیت جدا شدن کلاه، دارای دو جیب کناری، دو جیب روی سینه زیپ دار و دو جیب داخلی، گرم و با کیفیت",
+      "images": [
+        "/clothes/kapshan/kapshan2 (4).jpg",
+        "/clothes/kapshan/kapshan2 (2).jpg",
+        "/clothes/kapshan/kapshan2 (3).jpg"
+      ],
+      "colors": [
+        "#e2d8bd"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "quantity": 63,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 17,
+      "category": "کاپشن",
+      "title": "کاپشن ضخیم کلاه دار 51129",
+      "mainImage": "/clothes/kapshan/kapshan3 (1).jpg",
+      "price": 6100000,
+      "desc": "کاپشن ضخیم کلاه دار مردانه، با قابلیت جدا شدن کلاه، دارای دو جیب کناری، دو جیب روی سینه زیپ دار و دو جیب داخلی، گرم و با کیفیت",
+      "images": [
+        "/clothes/kapshan/kapshan3 (4).jpg",
+        "/clothes/kapshan/kapshan3 (2).jpg",
+        "/clothes/kapshan/kapshan3 (3).jpg"
+      ],
+      "colors": [
+        "#354a5b"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "quantity": 63,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 18,
+      "category": "کاپشن",
+      "title": "کاپشن ضخیم کلاه دار 51126",
+      "mainImage": "/clothes/kapshan/kapshan4 (1).jpg",
+      "price": 5700000,
+      "desc": "کاپشن ضخیم کلاه دار مردانه، با قابلیت جدا شدن کلاه، دارای شیش جیب رو و یک جیب داخلی زیپ دار، گرم و با کیفیت",
+      "images": [
+        "/clothes/kapshan/kapshan4 (4).jpg",
+        "/clothes/kapshan/kapshan4 (2).jpg",
+        "/clothes/kapshan/kapshan4 (3).jpg"
+      ],
+      "colors": [
+        "#3b3a27",
+        "#87784d"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "quantity": 63,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 19,
+      "category": "کاپشن",
+      "title": "کاپشن مردانه کلاه دار 16411",
+      "mainImage": "/clothes/kapshan/kapshan5 (1).jpg",
+      "price": 4140000,
+      "desc": "کاپشن مردانه کلاه دار، با قابلیت جداشدن کلاه، دارای دو جیب کناری و دو جیب داخلی، شیک و اسپرت",
+      "images": [
+        "/clothes/kapshan/kapshan5 (4).jpg",
+        "/clothes/kapshan/kapshan5 (2).jpg",
+        "/clothes/kapshan/kapshan5 (3).jpg"
+      ],
+      "colors": [
+        "#c5a07a"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "quantity": 63,
+      "rate": 3.5,
+      "discount": 20,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 20,
+      "category": "کاپشن",
+      "title": "کاپشن مردانه 16388",
+      "mainImage": "/clothes/kapshan/kapshan6 (1).jpg",
+      "price": 5650000,
+      "desc": "کاپشن مردانه، بدون کلاه، دارای دو جیب کناری و یک جیب داخلی، شیک و اسپرت",
+      "images": [
+        "/clothes/kapshan/kapshan6 (4).jpg",
+        "/clothes/kapshan/kapshan6 (2).jpg",
+        "/clothes/kapshan/kapshan6 (3).jpg"
+      ],
+      "colors": [
+        "#FFF"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "quantity": 63,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": ""
+    },
+    {
+      "id": 21,
+      "category": "کاپشن",
+      "title": "کاپشن مردانه 16373",
+      "mainImage": "/clothes/kapshan/kapshan7 (4).jpg",
+      "price": 6430000,
+      "desc": "کاپشن مردانه کلاه دار، کلاه متصل، دارای دو جیب کناری، یک جیب روی سینه و یک جیب داخلی، شیک و اسپرت",
+      "images": [
+        "/clothes/kapshan/kapshan7 (2).jpg",
+        "/clothes/kapshan/kapshan7 (1).jpg",
+        "/clothes/kapshan/kapshan7 (3).jpg"
+      ],
+      "colors": [
+        "#1a7cc9"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "quantity": 63,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": ""
+    },
+    {
+      "id": 22,
+      "category": "شلوار لی",
+      "title": "شلوار جین بگ 24823",
+      "mainImage": "/clothes/jin_li/jin_li1 (1).jpg",
+      "price": 3290000,
+      "desc": "شلوار جین بگ (Baggy) ساده مردانه، با پارچه پنبه، برش آزاد، فاق متوسط و زیپ دار، شیک و اسپرت",
+      "images": [
+        "/clothes/jin_li/jin_li1 (2).jpg",
+        "/clothes/jin_li/jin_li1 (4).jpg",
+        "/clothes/jin_li/jin_li1 (3).jpg"
+      ],
+      "colors": [
+        "#20232a"
+      ],
+      "sizes": [
+        "42",
+        "40",
+        "38",
+        "36"
+      ],
+      "quantity": 63,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": "bag"
+    },
+    {
+      "id": 23,
+      "category": "شلوار لی",
+      "title": "شلوار جین بگ 24817",
+      "mainImage": "/clothes/jin_li/jin_li2 (1).jpg",
+      "price": 3290000,
+      "desc": "شلوار جین بگ (Baggy) ساده مردانه، با پارچه پنبه، برش آزاد، فاق متوسط و زیپ دار، شیک و اسپرت",
+      "images": [
+        "/clothes/jin_li/jin_li2 (2).jpg",
+        "/clothes/jin_li/jin_li2 (4).jpg",
+        "/clothes/jin_li/jin_li2 (3).jpg"
+      ],
+      "colors": [
+        "#c8cdcf"
+      ],
+      "sizes": [
+        "42",
+        "40",
+        "38",
+        "36"
+      ],
+      "quantity": 61,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": "bag"
+    },
+    {
+      "id": 24,
+      "category": "شلوار لی",
+      "title": "شلوار جین اسکینی 10277",
+      "mainImage": "/clothes/jin_li/jin_li3 (1).jpg",
+      "price": 2680000,
+      "desc": "شلوار جین اسکینی(Skinny) ساده مردانه، با پارچه پنبه، فاق متوسط و زیپ دار، شیک و با کیفیت",
+      "images": [
+        "/clothes/jin_li/jin_li3 (2).jpg",
+        "/clothes/jin_li/jin_li3 (4).jpg",
+        "/clothes/jin_li/jin_li3 (3).jpg"
+      ],
+      "colors": [
+        "#57707d"
+      ],
+      "sizes": [
+        "42",
+        "40",
+        "38",
+        "36"
+      ],
+      "quantity": 52,
+      "rate": 3.5,
+      "discount": 20,
+      "date": "10/17/2025",
+      "type": "skinny"
+    },
+    {
+      "id": 25,
+      "category": "شلوار لی",
+      "title": "شلوار جین اسکینی 10279",
+      "mainImage": "/clothes/jin_li/jin_li4 (4).jpg",
+      "price": 2680000,
+      "desc": "شلوار جین اسکینی(Skinny) ساده مردانه، با پارچه پنبه، فاق متوسط و دکمه دار، شیک و اسپرت",
+      "images": [
+        "/clothes/jin_li/jin_li4 (2).jpg",
+        "/clothes/jin_li/jin_li4 (1).jpg",
+        "/clothes/jin_li/jin_li4 (3).jpg"
+      ],
+      "colors": [
+        "#000"
+      ],
+      "sizes": [
+        "42",
+        "40",
+        "38",
+        "36"
+      ],
+      "quantity": 52,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": "skinny"
+    },
+    {
+      "id": 26,
+      "category": "شلوار لی",
+      "title": "شلوار جین کارگو 12192",
+      "mainImage": "/clothes/jin_li/jin_li5 (1).jpg",
+      "price": 2510000,
+      "desc": "شلوار جین کارگو (cargo) ساده، با پارچه پنبه، فاق متوسط و دکمه دار",
+      "images": [
+        "/clothes/jin_li/jin_li5 (2).jpg",
+        "/clothes/jin_li/jin_li5 (1).jpg",
+        "/clothes/jin_li/jin_li5 (3).jpg"
+      ],
+      "colors": [
+        "#2a2a2a"
+      ],
+      "sizes": [
+        "42",
+        "40",
+        "38",
+        "36"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 15,
+      "date": "10/17/2025",
+      "type": "cargo"
+    },
+    {
+      "id": 27,
+      "category": "شلوار لی",
+      "title": "شلوار جین کارگو 12186",
+      "mainImage": "/clothes/jin_li/jin_li6 (4).jpg",
+      "price": 2680000,
+      "desc": "شلوار جین کارگو (cargo) زاپ دار، با پارچه پنبه، فاق متوسط و دکمه دار، شیک و با کیفیت",
+      "images": [
+        "/clothes/jin_li/jin_li6 (2).jpg",
+        "/clothes/jin_li/jin_li6 (1).jpg",
+        "/clothes/jin_li/jin_li6 (3).jpg"
+      ],
+      "colors": [
+        "#84959d"
+      ],
+      "sizes": [
+        "42",
+        "40",
+        "38",
+        "36"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": "cargo"
+    },
+    {
+      "id": 28,
+      "category": "شلوار لی",
+      "title": "شلوار جین مام استایل 24768",
+      "mainImage": "/clothes/jin_li/jin_li7 (1).jpg",
+      "price": 2680000,
+      "desc": "شلوار جین مام استایل (Mom Style) ساده مردانه، با پارچه پنبه، فاق متوسط و دکمه دار، شیک و اسپرت",
+      "images": [
+        "/clothes/jin_li/jin_li7 (2).jpg",
+        "/clothes/jin_li/jin_li7 (4).jpg",
+        "/clothes/jin_li/jin_li7 (3).jpg"
+      ],
+      "colors": [
+        "#d9d1bc"
+      ],
+      "sizes": [
+        "42",
+        "40",
+        "38",
+        "36"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": "mom_style"
+    },
+    {
+      "id": 29,
+      "category": "شلوار پارچه ای",
+      "title": "شلوار لینن مردانه 62122",
+      "mainImage": "/clothes/fabrik_pants/fabrik1 (1).jpg",
+      "price": 2710000,
+      "desc": "شلوار لینن مردانه، با برش آزاد، سبک و راحت، شیک و با کیفیت",
+      "images": [
+        "/clothes/fabrik_pants/fabrik1 (2).jpg",
+        "/clothes/fabrik_pants/fabrik1 (4).jpg",
+        "/clothes/fabrik_pants/fabrik1 (3).jpg"
+      ],
+      "colors": [
+        "#80522f",
+        "#8f8d8e"
+      ],
+      "sizes": [
+        "42",
+        "40",
+        "38",
+        "36"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 30,
+      "category": "شلوار پارچه ای",
+      "title": "شلوار پارچه ای مردانه 62124",
+      "mainImage": "/clothes/fabrik_pants/fabrik2 (1).jpg",
+      "price": 3110000,
+      "desc": "شلوار پارچه ای مردانه، با برش رگولار، شیک و با کیفیت",
+      "images": [
+        "/clothes/fabrik_pants/fabrik2 (2).jpg",
+        "/clothes/fabrik_pants/fabrik2 (4).jpg",
+        "/clothes/fabrik_pants/fabrik2 (3).jpg"
+      ],
+      "colors": [
+        "#383735",
+        "#5b5a54"
+      ],
+      "sizes": [
+        "42",
+        "40",
+        "38",
+        "36"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 31,
+      "category": "شلوار پارچه ای",
+      "title": "شلوار کمرکش مردانه 62118",
+      "mainImage": "/clothes/fabrik_pants/fabrik3 (4).jpg",
+      "price": 2340000,
+      "desc": "شلوار کمرکش مردانه، با برش معمولی، فاق متوسط و زیپ دار، شیک و با کیفیت",
+      "images": [
+        "/clothes/fabrik_pants/fabrik3 (2).jpg",
+        "/clothes/fabrik_pants/fabrik3 (1).jpg",
+        "/clothes/fabrik_pants/fabrik3 (3).jpg"
+      ],
+      "colors": [
+        "#735f52",
+        "#ede6d5"
+      ],
+      "sizes": [
+        "42",
+        "40",
+        "38",
+        "36"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 32,
+      "category": "شلوار پارچه ای",
+      "title": "شلوار مخمل کبریتی 62126",
+      "mainImage": "/clothes/fabrik_pants/fabrik4 (1).jpg",
+      "price": 3740000,
+      "desc": "شلوار مخمل کبریتی مردانه، با برش آزاد، فاق متوسط و زیپ دار، شیک و با کیفیت",
+      "images": [
+        "/clothes/fabrik_pants/fabrik4 (2).jpg",
+        "/clothes/fabrik_pants/fabrik4 (4).jpg",
+        "/clothes/fabrik_pants/fabrik4 (3).jpg"
+      ],
+      "colors": [
+        "#686a68",
+        "#33393f"
+      ],
+      "sizes": [
+        "42",
+        "40",
+        "38",
+        "36"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 25,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 33,
+      "category": "شلوار پارچه ای",
+      "title": "شلوار پارچه ای مردانه 62115",
+      "mainImage": "/clothes/fabrik_pants/fabrik5 (1).jpg",
+      "price": 3110000,
+      "desc": "شلوار پارچه‌ ای مردانه، با برش آزاد، فاق متوسط و زیپ دار، شیک و با کیفیت",
+      "images": [
+        "/clothes/fabrik_pants/fabrik5 (2).jpg",
+        "/clothes/fabrik_pants/fabrik5 (4).jpg",
+        "/clothes/fabrik_pants/fabrik5 (3).jpg"
+      ],
+      "colors": [
+        "#c6b194",
+        "#22232b"
+      ],
+      "sizes": [
+        "42",
+        "40",
+        "38",
+        "36"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 34,
+      "category": "شلوار پارچه ای",
+      "title": "شلوار لینن مردانه 62120",
+      "mainImage": "/clothes/fabrik_pants/fabrik6 (1).jpg",
+      "price": 3110000,
+      "desc": "شلوار لینن مردانه، با برش آزاد، خنک و راحت، شیک و با کیفیت",
+      "images": [
+        "/clothes/fabrik_pants/fabrik6 (2).jpg",
+        "/clothes/fabrik_pants/fabrik6 (4).jpg",
+        "/clothes/fabrik_pants/fabrik6 (3).jpg"
+      ],
+      "colors": [
+        "#c2c9cf",
+        "#6f6b44"
+      ],
+      "sizes": [
+        "42",
+        "40",
+        "38",
+        "36"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 35,
+      "category": "شلوار پارچه ای",
+      "title": "شلوار پارچه ای دمپا پاکتی 62129",
+      "mainImage": "/clothes/fabrik_pants/fabrik7 (1).jpg",
+      "price": 3110000,
+      "desc": "شلوار پارچه ای دمپا پاکتی مردانه، با برش معمولی، شیک و اسپرت",
+      "images": [
+        "/clothes/fabrik_pants/fabrik7 (2).jpg",
+        "/clothes/fabrik_pants/fabrik7 (4).jpg",
+        "/clothes/fabrik_pants/fabrik7 (3).jpg"
+      ],
+      "colors": [
+        "#000000"
+      ],
+      "sizes": [
+        "42",
+        "40",
+        "38",
+        "36"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": ""
+    },
+    {
+      "id": 36,
+      "category": "تی شرت",
+      "title": "تیشرت طرح دار 96787",
+      "mainImage": "/clothes/t_shirts/t_shirts1 (4).jpg",
+      "price": 1140000,
+      "desc": "تیشرت طرح دار یقه گرد آستین کوتاه مردانه، با برش آزاد، شیک و اسپرت",
+      "images": [
+        "/clothes/t_shirts/t_shirts1 (2).jpg",
+        "/clothes/t_shirts/t_shirts1 (1).jpg",
+        "/clothes/t_shirts/t_shirts1 (3).jpg"
+      ],
+      "colors": [
+        "#fff"
+      ],
+      "sizes": [
+        "2XL",
+        "XL",
+        "L",
+        "M"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 10,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 37,
+      "category": "تی شرت",
+      "title": "تیشرت طرح دار 96788",
+      "mainImage": "/clothes/t_shirts/t_shirts2 (1).jpg",
+      "price": 1140000,
+      "desc": "تیشرت طرح دار یقه گرد آستین کوتاه مردانه، با برش معمولی، شیک و اسپرت",
+      "images": [
+        "/clothes/t_shirts/t_shirts2 (2).jpg",
+        "/clothes/t_shirts/t_shirts2 (4).jpg",
+        "/clothes/t_shirts/t_shirts2 (3).jpg"
+      ],
+      "colors": [
+        "#000"
+      ],
+      "sizes": [
+        "2XL",
+        "XL",
+        "L",
+        "M"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 10,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 38,
+      "category": "تی شرت",
+      "title": "تیشرت طرح دار 96725",
+      "mainImage": "/clothes/t_shirts/t_shirts3 (1).jpg",
+      "price": 1140000,
+      "desc": "تیشرت طرح دار یقه گرد آستین کوتاه مردانه، با برش معمولی، شیک و اسپرت",
+      "images": [
+        "/clothes/t_shirts/t_shirts3 (2).jpg",
+        "/clothes/t_shirts/t_shirts3 (4).jpg",
+        "/clothes/t_shirts/t_shirts3 (3).jpg"
+      ],
+      "colors": [
+        "#f6f4f2"
+      ],
+      "sizes": [
+        "2XL",
+        "XL",
+        "L",
+        "M"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 10,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 39,
+      "category": "تی شرت",
+      "title": "تیشرت طرح دار 96727",
+      "mainImage": "/clothes/t_shirts/t_shirts4 (4).jpg",
+      "price": 1140000,
+      "desc": "تیشرت طرح دار یقه گرد آستین کوتاه مردانه، با برش آزاد، جنس پارچه نخ پنبه، شیک و با کیفیت",
+      "images": [
+        "/clothes/t_shirts/t_shirts4 (2).jpg",
+        "/clothes/t_shirts/t_shirts4 (1).jpg",
+        "/clothes/t_shirts/t_shirts4 (3).jpg"
+      ],
+      "colors": [
+        "#ae9f82"
+      ],
+      "sizes": [
+        "2XL",
+        "XL",
+        "L",
+        "M"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 10,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 40,
+      "category": "تی شرت",
+      "title": "تیشرت طرح دار 96736",
+      "mainImage": "/clothes/t_shirts/t_shirts5 (4).jpg",
+      "price": 1140000,
+      "desc": "تیشرت طرح دار یقه گرد آستین کوتاه مردانه، با برش آزاد، جنس پارچه نخ پنبه، شیک و با کیفیت",
+      "images": [
+        "/clothes/t_shirts/t_shirts5 (2).jpg",
+        "/clothes/t_shirts/t_shirts5 (1).jpg",
+        "/clothes/t_shirts/t_shirts5 (3).jpg"
+      ],
+      "colors": [
+        "#a9482f",
+        "#000"
+      ],
+      "sizes": [
+        "2XL",
+        "XL",
+        "L",
+        "M"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 10,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 41,
+      "category": "تی شرت",
+      "title": "تیشرت طرح دار 96842",
+      "mainImage": "/clothes/t_shirts/t_shirts6 (1).jpg",
+      "price": 1140000,
+      "desc": "تیشرت طرح دار یقه گرد آستین کوتاه مردانه، با برش آزاد، جنس پارچه نخ پنبه، شیک و با کیفیت",
+      "images": [
+        "/clothes/t_shirts/t_shirts6 (2).jpg",
+        "/clothes/t_shirts/t_shirts6 (4).jpg",
+        "/clothes/t_shirts/t_shirts6 (3).jpg"
+      ],
+      "colors": [
+        "#000"
+      ],
+      "sizes": [
+        "2XL",
+        "XL",
+        "L",
+        "M"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 10,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 42,
+      "category": "تی شرت",
+      "title": "تیشرت طرح دار 96835",
+      "mainImage": "/clothes/t_shirts/t_shirts7 (1).jpg",
+      "price": 1140000,
+      "desc": "تیشرت طرح دار یقه گرد آستین کوتاه مردانه، با برش آزاد، جنس پارچه نخ پنبه، شیک و با کیفیت",
+      "images": [
+        "/clothes/t_shirts/t_shirts7 (2).jpg",
+        "/clothes/t_shirts/t_shirts7 (4).jpg",
+        "/clothes/t_shirts/t_shirts7 (3).jpg"
+      ],
+      "colors": [
+        "#f19725"
+      ],
+      "sizes": [
+        "2XL",
+        "XL",
+        "L",
+        "M"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": ""
+    },
+    {
+      "id": 43,
+      "category": "کت تک",
+      "title": "کت تک مردانه 46204",
+      "mainImage": "/clothes/coat/coat1 (1).jpg",
+      "price": 9880000,
+      "desc": "کت تک مردانه، دو دکمه، دارای یک جیب روی سینه، دو جیب کناری و دو جیب داخلی، شیک و با کیفیت",
+      "images": [
+        "/clothes/coat/coat1 (2).jpg",
+        "/clothes/coat/coat1 (4).jpg",
+        "/clothes/coat/coat1 (3).jpg"
+      ],
+      "colors": [
+        "#cfc5ad"
+      ],
+      "sizes": [
+        "2XL",
+        "XL",
+        "L",
+        "M"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 40,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 44,
+      "category": "کت تک",
+      "title": "کت کتان مردانه 77108",
+      "mainImage": "/clothes/coat/coat2 (1).jpg",
+      "price": 3880000,
+      "desc": "کت کتان مردانه، با برش معمولی، دارای دو جیب روی سینه و دو جیب کناری، شیک و با کیفیت",
+      "images": [
+        "/clothes/coat/coat2 (2).jpg",
+        "/clothes/coat/coat2 (4).jpg",
+        "/clothes/coat/coat2 (3).jpg"
+      ],
+      "colors": [
+        "#fff"
+      ],
+      "sizes": [
+        "2XL",
+        "XL",
+        "L",
+        "M"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 45,
+      "category": "کت تک",
+      "title": "کت جین مردانه 80166",
+      "mainImage": "/clothes/coat/coat3 (4).jpg",
+      "price": 3880000,
+      "desc": "کت جین مردانه، با برش معمولی، دارای دو جیب کناری، شیک و اسپرت",
+      "images": [
+        "/clothes/coat/coat3 (2).jpg",
+        "/clothes/coat/coat3 (1).jpg",
+        "/clothes/coat/coat3 (3).jpg"
+      ],
+      "colors": [
+        "#253344"
+      ],
+      "sizes": [
+        "2XL",
+        "XL",
+        "L",
+        "M"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 46,
+      "category": "کت تک",
+      "title": "کت تک مردانه 46204",
+      "mainImage": "/clothes/coat/coat4 (1).jpg",
+      "price": 9880000,
+      "desc": "کت تک مردانه، دو دکمه، دارای یک جیب روی سینه، دو جیب کناری و دو جیب داخلی، شیک و با کیفیت",
+      "images": [
+        "/clothes/coat/coat4 (2).jpg",
+        "/clothes/coat/coat4 (4).jpg",
+        "/clothes/coat/coat4 (3).jpg"
+      ],
+      "colors": [
+        "#4b4936"
+      ],
+      "sizes": [
+        "2XL",
+        "XL",
+        "L",
+        "M"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 40,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 47,
+      "category": "کت تک",
+      "title": "کت تک مردانه 46204",
+      "mainImage": "/clothes/coat/coat5 (4).jpg",
+      "price": 5880000,
+      "desc": "کت تک مردانه، دارای آستر داخلی، شیک و با کیفیت",
+      "images": [
+        "/clothes/coat/coat5 (2).jpg",
+        "/clothes/coat/coat5 (1).jpg",
+        "/clothes/coat/coat5 (3).jpg"
+      ],
+      "colors": [
+        "#393c37"
+      ],
+      "sizes": [
+        "2XL",
+        "XL",
+        "L",
+        "M"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 40,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 48,
+      "category": "کت تک",
+      "title": "کت کتان مردانه 77109",
+      "mainImage": "/clothes/coat/coat6 (1).jpg",
+      "price": 3885000,
+      "desc": "کت کتان مردانه، با برش معمولی، دارای دو جیب روی سینه و دو جیب کناری، شیک و با کیفیت",
+      "images": [
+        "/clothes/coat/coat6 (2).jpg",
+        "/clothes/coat/coat6 (4).jpg",
+        "/clothes/coat/coat6 (3).jpg"
+      ],
+      "colors": [
+        "#dacaa9"
+      ],
+      "sizes": [
+        "2XL",
+        "XL",
+        "L",
+        "M"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 49,
+      "category": "کت تک",
+      "title": "کت جین 80146",
+      "mainImage": "/clothes/coat/coat7 (1).jpg",
+      "price": 2930000,
+      "desc": "کت جین مردانه نازک، بسیار شیک و با کیفیت، دارای دو جیب روی سینه",
+      "images": [
+        "/clothes/coat/coat7 (2).jpg",
+        "/clothes/coat/coat7 (4).jpg",
+        "/clothes/coat/coat7 (3).jpg"
+      ],
+      "colors": [
+        "#746f69"
+      ],
+      "sizes": [
+        "2XL",
+        "XL",
+        "L",
+        "M"
+      ],
+      "quantity": 52,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": ""
+    },
+    {
+      "id": 50,
+      "category": "شلوارک",
+      "title": "شلوارک جین مردانه 31120",
+      "mainImage": "/clothes/shorts/shorts1.jpg",
+      "price": 2930000,
+      "desc": "کت جین مردانه نازک، بسیار شیک و با کیفیت، دارای دو جیب روی سینه",
+      "images": [],
+      "colors": [
+        "#4f4b4a"
+      ],
+      "sizes": [
+        "44",
+        "42",
+        "40",
+        "38"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 51,
+      "category": "شلوارک",
+      "title": "شلوارک جین مردانه 31121",
+      "mainImage": "/clothes/shorts/shorts2 (1).jpg",
+      "price": 2930000,
+      "desc": "شلوارک جین مردانه، با برش آزاد، فاق زیپ دار، شیک و اسپرت",
+      "images": [
+        "/clothes/shorts/shorts2 (2).jpg",
+        "/clothes/shorts/shorts2 (4).jpg",
+        "/clothes/shorts/shorts2 (3).jpg"
+      ],
+      "colors": [
+        "#7a91a3"
+      ],
+      "sizes": [
+        "44",
+        "42",
+        "40",
+        "38"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 52,
+      "category": "شلوارک",
+      "title": "شلوارک کتان 31103",
+      "mainImage": "/clothes/shorts/shorts3 (1).jpg",
+      "price": 1450000,
+      "desc": "شلوارک کتان مردانه، دارای دو جیب کناری و دو جیب پشتی، شیک و اسپرت",
+      "images": [
+        "/clothes/shorts/shorts3 (2).jpg",
+        "/clothes/shorts/shorts3 (4).jpg",
+        "/clothes/shorts/shorts3 (3).jpg"
+      ],
+      "colors": [
+        "#5c5d3f"
+      ],
+      "sizes": [
+        "44",
+        "42",
+        "40",
+        "38"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 10,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 53,
+      "category": "شلوارک",
+      "title": "شلوارک جین مردانه 31119",
+      "mainImage": "/clothes/shorts/shorts4 (1).jpg",
+      "price": 1450000,
+      "desc": "شلوارک جین مردانه، با برش آزاد، فاق زیپ دار، شیک و اسپرت",
+      "images": [
+        "/clothes/shorts/shorts4 (2).jpg",
+        "/clothes/shorts/shorts4 (4).jpg",
+        "/clothes/shorts/shorts4 (3).jpg"
+      ],
+      "colors": [
+        "#41536a"
+      ],
+      "sizes": [
+        "44",
+        "42",
+        "40",
+        "38"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 54,
+      "category": "شلوارک",
+      "title": "شلوارک کتان 31100",
+      "mainImage": "/clothes/shorts/shorts5 (1).jpg",
+      "price": 1450000,
+      "desc": "شلوارک کتان مردانه، دارای دو جیب کناری، دو جیب رو و یک جیب پشتی، شیک و اسپرت",
+      "images": [
+        "/clothes/shorts/shorts5 (2).jpg",
+        "/clothes/shorts/shorts5 (4).jpg",
+        "/clothes/shorts/shorts5 (3).jpg"
+      ],
+      "colors": [
+        "#585334"
+      ],
+      "sizes": [
+        "44",
+        "42",
+        "40",
+        "38"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 55,
+      "category": "شلوارک",
+      "title": "شلوارک کتان 31101",
+      "mainImage": "/clothes/shorts/shorts6 (3).jpg",
+      "price": 1450000,
+      "desc": "شلوارک کتان مردانه، دارای دو جیب کناری، دو جیب رو و یک جیب پشتی، شیک و اسپرت",
+      "images": [
+        "/clothes/shorts/shorts6 (2).jpg",
+        "/clothes/shorts/shorts6 (4).jpg",
+        "/clothes/shorts/shorts6 (1).jpg"
+      ],
+      "colors": [
+        "#915926"
+      ],
+      "sizes": [
+        "44",
+        "42",
+        "40",
+        "38"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": ""
+    },
+    {
+      "id": 56,
+      "category": "کفش روزمره",
+      "title": "کفش روزمره 44515",
+      "mainImage": "/shoes/daily/daily1 (1).jpg",
+      "price": 3250000,
+      "desc": "کفش روزمره بندی مردانه، جنس چرم طبیعی با کیفیت، راحت و اسپرت",
+      "images": [
+        "/shoes/daily/daily1 (2).jpg",
+        "/shoes/daily/daily1 (3).jpg"
+      ],
+      "colors": [
+        "#5d745f",
+        "#6d7874"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 57,
+      "category": "کفش روزمره",
+      "title": "کفش روزمره 44470",
+      "mainImage": "/shoes/daily/daily2 (3).jpg",
+      "price": 5250000,
+      "desc": "کفش روزمره بندی مردانه، جنس چرم طبیعی با کیفیت، راحت و اسپرت",
+      "images": [
+        "/shoes/daily/daily2 (2).jpg",
+        "/shoes/daily/daily2 (1).jpg"
+      ],
+      "colors": [
+        "#607187"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 52,
+      "rate": 3.5,
+      "discount": 30,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 58,
+      "category": "کفش روزمره",
+      "title": "کفش روزمره 44509",
+      "mainImage": "/shoes/daily/daily3 (1).jpg",
+      "price": 3250000,
+      "desc": "کفش روزمره بندی مردانه، جنس چرم طبیعی با کیفیت، راحت و اسپرت",
+      "images": [
+        "/shoes/daily/daily3 (2).jpg",
+        "/shoes/daily/daily3 (3).jpg"
+      ],
+      "colors": [
+        "#383838"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 59,
+      "category": "کفش روزمره",
+      "title": "کفش روزمره 44515",
+      "mainImage": "/shoes/daily/daily4 (1).jpg",
+      "price": 3250000,
+      "desc": "کفش روزمره بندی مردانه، جنس چرم طبیعی با کیفیت، راحت و اسپرت",
+      "images": [
+        "/shoes/daily/daily4 (2).jpg",
+        "/shoes/daily/daily4 (3).jpg"
+      ],
+      "colors": [
+        "#6f7a76"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 60,
+      "category": "کفش روزمره",
+      "title": "کفش روزمره 44537",
+      "mainImage": "/shoes/daily/daily6 (1).jpg",
+      "price": 3250000,
+      "desc": "کفش روزمره بندی مردانه، جنس چرم طبیعی با کیفیت، راحت و اسپرت",
+      "images": [
+        "/shoes/daily/daily6 (2).jpg",
+        "/shoes/daily/daily6 (3).jpg"
+      ],
+      "colors": [
+        "#fff"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 61,
+      "category": "کفش روزمره",
+      "title": "کفش روزمره 44513",
+      "mainImage": "/shoes/daily/daily5 (1).jpg",
+      "price": 3250000,
+      "desc": "کفش روزمره بندی مردانه، جنس چرم طبیعی با کیفیت، راحت و اسپرت",
+      "images": [
+        "/shoes/daily/daily5 (2).jpg",
+        "/shoes/daily/daily5 (3).jpg"
+      ],
+      "colors": [
+        "#854522"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 62,
+      "category": "کفش روزمره",
+      "title": "کفش روزمره 44533",
+      "mainImage": "/shoes/daily/daily7 (1).jpg",
+      "price": 3250000,
+      "desc": "کفش روزمره بندی مردانه، جنس چرم طبیعی با کیفیت، راحت و اسپرت",
+      "images": [
+        "/shoes/daily/daily7 (2).jpg",
+        "/shoes/daily/daily7 (3).jpg"
+      ],
+      "colors": [
+        "#000"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": ""
+    },
+    {
+      "id": 63,
+      "category": "کفش رسمی",
+      "title": "کفش رسمی مردانه 43180",
+      "mainImage": "/shoes/official/official1 (1).jpg",
+      "price": 3250000,
+      "desc": "کفش رسمی بند دار، ساخته شده از چرم طبیعی با کیفیت با ظاهری بسیار زیبا و جذاب",
+      "images": [
+        "/shoes/official/official1 (2).jpg",
+        "/shoes/official/official1 (3).jpg"
+      ],
+      "colors": [
+        "#22252d"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 64,
+      "category": "کفش رسمی",
+      "title": "کفش کلاسیک بند دار 43101",
+      "mainImage": "/shoes/official/official2 (1).jpg",
+      "price": 3250000,
+      "desc": "کفش چرم مردانه رسمی بند دار، ساخته شده از چرم با کیفیت ",
+      "images": [
+        "/shoes/official/official2 (2).jpg",
+        "/shoes/official/official2 (3).jpg"
+      ],
+      "colors": [
+        "#7c3918"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 65,
+      "category": "کفش رسمی",
+      "title": "کفش رسمی مردانه 43192",
+      "mainImage": "/shoes/official/official3 (1).jpg",
+      "price": 3250000,
+      "desc": "کفش رسمی مردانه، بندی، ساخته شده از چرم طبیعی با کیفیت، شیک و راحت",
+      "images": [
+        "/shoes/official/official3 (2).jpg",
+        "/shoes/official/official3 (3).jpg"
+      ],
+      "colors": [
+        "#523e31"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 66,
+      "category": "کفش رسمی",
+      "title": "کفش کلاسیک مردانه 43116",
+      "mainImage": "/shoes/official/official4 (1).jpg",
+      "price": 4250000,
+      "desc": "کفش کلاسیک مردانه، جنس چرم طبیعی با کیفیت، راحت و اسپرت",
+      "images": [
+        "/shoes/official/official4 (2).jpg",
+        "/shoes/official/official4 (3).jpg"
+      ],
+      "colors": [
+        "#523e31"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 20,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 67,
+      "category": "کفش رسمی",
+      "title": "کفش رسمی بنددار 43184",
+      "mainImage": "/shoes/official/official5 (3).jpg",
+      "price": 4250000,
+      "desc": "کفش چرم مردانه رسمی بند دار، ساخته شده از چرم طبیعی با کیفیت ",
+      "images": [
+        "/shoes/official/official5 (2).jpg",
+        "/shoes/official/official5 (1).jpg"
+      ],
+      "colors": [
+        "#000"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 20,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 68,
+      "category": "کفش رسمی",
+      "title": "کفش کلاسیک مردانه 43110",
+      "mainImage": "/shoes/official/official6 (1).jpg",
+      "price": 3250000,
+      "desc": "کفش کلاسیک مردانه، جنس چرم طبیعی با کیفیت، راحت و اسپرت",
+      "images": [
+        "/shoes/official/official6 (2).jpg",
+        "/shoes/official/official6 (3).jpg"
+      ],
+      "colors": [
+        "#95481e"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 69,
+      "category": "کفش رسمی",
+      "title": "کفش رسمی مردانه 43176",
+      "mainImage": "/shoes/official/official7 (1).jpg",
+      "price": 3250000,
+      "desc": "کفش رسمی مردانه، بندی، ساخته شده از چرم طبیعی با کیفیت، شیک و راحت",
+      "images": [
+        "/shoes/official/official7 (2).jpg",
+        "/shoes/official/official7 (3).jpg"
+      ],
+      "colors": [
+        "#000"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": ""
+    },
+    {
+      "id": 70,
+      "category": "بوت و نیم بوت",
+      "title": "کفش بوت چرم مردانه 73124",
+      "mainImage": "/shoes/boots/boots1 (1).jpg",
+      "price": 3250000,
+      "desc": "کفش بوت چرم مردانه، جنس رویه چرم طبیعی با کیفیت، زیپ دار",
+      "images": [
+        "/shoes/boots/boots1 (2).jpg",
+        "/shoes/boots/boots1 (3).jpg"
+      ],
+      "colors": [
+        "#000"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 71,
+      "category": "بوت و نیم بوت",
+      "title": "کفش نیم بوت مردانه 70160",
+      "mainImage": "/shoes/boots/boots2 (1).jpg",
+      "price": 4250000,
+      "desc": "کفش نیم بوت مردانه، جنس رویه چرم مصنوعی با کیفیت، بند دار، شیک و اسپرت",
+      "images": [
+        "/shoes/boots/boots2 (2).jpg",
+        "/shoes/boots/boots2 (3).jpg"
+      ],
+      "colors": [
+        "#7f041b"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 72,
+      "category": "بوت و نیم بوت",
+      "title": "کفش نیم بوت مردانه 70168",
+      "mainImage": "/shoes/boots/boots3 (1).jpg",
+      "price": 6250000,
+      "desc": "کفش نیم بوت مردانه، جنس رویه چرم طبیعی، بند دار، شیک و اسپرت",
+      "images": [
+        "/shoes/boots/boots3 (2).jpg",
+        "/shoes/boots/boots3 (3).jpg"
+      ],
+      "colors": [
+        "#121c2b"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 20,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 73,
+      "category": "بوت و نیم بوت",
+      "title": "کفش نیم بوت مردانه 70168",
+      "mainImage": "/shoes/boots/boots4 (1).jpg",
+      "price": 4250000,
+      "desc": "کفش نیم بوت مردانه، جنس رویه چرم طبیعی، بند دار، شیک و اسپرت",
+      "images": [
+        "/shoes/boots/boots4 (2).jpg",
+        "/shoes/boots/boots4 (3).jpg"
+      ],
+      "colors": [
+        "#000"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 74,
+      "category": "بوت و نیم بوت",
+      "title": "کفش نیم بوت مردانه 70168",
+      "mainImage": "/shoes/boots/boots5 (1).jpg",
+      "price": 4250000,
+      "desc": "کفش نیم بوت مردانه، جنس رویه چرم طبیعی، بند دار، شیک و اسپرت",
+      "images": [
+        "/shoes/boots/boots5 (2).jpg",
+        "/shoes/boots/boots5 (3).jpg"
+      ],
+      "colors": [
+        "#000",
+        "#fff"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 75,
+      "category": "بوت و نیم بوت",
+      "title": "کفش نیم بوت مردانه 70168",
+      "mainImage": "/shoes/boots/boots6 (3).jpg",
+      "price": 4250000,
+      "desc": "کفش نیم بوت مردانه، جنس رویه چرم طبیعی، بند دار، شیک و اسپرت",
+      "images": [
+        "/shoes/boots/boots6 (2).jpg",
+        "/shoes/boots/boots6 (1).jpg"
+      ],
+      "colors": [
+        "#4d3326"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 76,
+      "category": "بوت و نیم بوت",
+      "title": "کفش نیم بوت مردانه 70168",
+      "mainImage": "/shoes/boots/boots7 (3).jpg",
+      "price": 4250000,
+      "desc": "کفش نیم بوت مردانه، جنس رویه چرم طبیعی، بند دار، شیک و اسپرت",
+      "images": [
+        "/shoes/boots/boots7 (2).jpg",
+        "/shoes/boots/boots7 (1).jpg"
+      ],
+      "colors": [
+        "#fff"
+      ],
+      "sizes": [
+        "43",
+        "42",
+        "41",
+        "40"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": ""
+    },
+    {
+      "id": 77,
+      "category": "کلاه",
+      "title": "کلاه نقاب دار 39306",
+      "mainImage": "/accessories/cap/cap1 (1).jpg",
+      "price": 950000,
+      "desc": "کلاه نقاب دار، دارای قابلیت تغییر سایز، با لوگو و طرح گلدوزی شده، شیک و اسپرت",
+      "images": [
+        "/accessories/cap/cap1 (2).jpg"
+      ],
+      "colors": [
+        "#fff"
+      ],
+      "sizes": [
+        "فیری سایز"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 78,
+      "category": "کلاه",
+      "title": "کلاه نقاب دار 39436",
+      "mainImage": "/accessories/cap/cap2 (1).jpg",
+      "price": 950000,
+      "desc": "کلاه نقاب دار، دارای قابلیت تغییر سایز، با لوگو و طرح گلدوزی شده، شیک و اسپرت",
+      "images": [
+        "/accessories/cap/cap2 (2).jpg"
+      ],
+      "colors": [
+        "#fff"
+      ],
+      "sizes": [
+        "فیری سایز"
+      ],
+      "quantity": 52,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 79,
+      "category": "کلاه",
+      "title": "کلاه نقاب دار 39440",
+      "mainImage": "/accessories/cap/cap3 (1).jpg",
+      "price": 950000,
+      "desc": "کلاه نقاب دار، دارای قابلیت تغییر سایز، با لوگو و طرح گلدوزی شده، شیک و اسپرت",
+      "images": [
+        "/accessories/cap/cap3 (2).jpg"
+      ],
+      "colors": [
+        "#a41626"
+      ],
+      "sizes": [
+        "فیری سایز"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 80,
+      "category": "کلاه",
+      "title": "کلاه بافت 40125",
+      "mainImage": "/accessories/cap/cap4 (1).jpg",
+      "price": 950000,
+      "desc": "کلاه بافت، شیک و کاربردی",
+      "images": [
+        "/accessories/cap/cap4 (2).jpg"
+      ],
+      "colors": [
+        "#d5ccae"
+      ],
+      "sizes": [
+        "فیری سایز"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 81,
+      "category": "کلاه",
+      "title": "کلاه بافت 40125",
+      "mainImage": "/accessories/cap/cap5 (1).jpg",
+      "price": 950000,
+      "desc": "کلاه بافت، شیک و کاربردی",
+      "images": [
+        "/accessories/cap/cap5 (2).jpg"
+      ],
+      "colors": [
+        "#7e6d5b"
+      ],
+      "sizes": [
+        "فیری سایز"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 82,
+      "category": "کلاه",
+      "title": "کلاه گورین 39455",
+      "mainImage": "/accessories/cap/cap6 (1).jpg",
+      "price": 950000,
+      "desc": "کلاه پشت تور گورین، با قابلیت تغییر سایز، شیک و اسپرت",
+      "images": [
+        "/accessories/cap/cap6 (2).jpg"
+      ],
+      "colors": [
+        "#111a21"
+      ],
+      "sizes": [
+        "فیری سایز"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 20,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 83,
+      "category": "کلاه",
+      "title": "کلاه نقاب دار 39311",
+      "mainImage": "/accessories/cap/cap7 (1).jpg",
+      "price": 950000,
+      "desc": "کلاه نقاب دار، دارای قابلیت تغییر سایز، با لوگو و طرح گلدوزی شده، شیک و اسپرت",
+      "images": [
+        "/accessories/cap/cap7 (2).jpg"
+      ],
+      "colors": [
+        "#56442a"
+      ],
+      "sizes": [
+        "فیری سایز"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": ""
+    },
+    {
+      "id": 84,
+      "category": "عطر و ادکلن",
+      "title": "ادکلن باکارات Barakkat 100ml",
+      "mainImage": "/accessories/perfume/perfume1 (1).jpg",
+      "price": 2350000,
+      "desc": "ادکلن باکارات Barakkat 100ml، برند Fragrance World، با رایحه گرم و شیرین، مشابه Baccarat Rouge، مناسب فصل پاییز، زمستان و بهار",
+      "images": [
+        "/accessories/perfume/perfume1 (2).jpg"
+      ],
+      "colors": [
+        "#c92325"
+      ],
+      "sizes": [
+        "فیری سایز"
+      ],
+      "quantity": 52,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 85,
+      "category": "عطر و ادکلن",
+      "title": "ادکلن اسپلندور Splendor 100ml",
+      "mainImage": "/accessories/perfume/perfume2 (1).jpg",
+      "price": 2350000,
+      "desc": "ادکلن اسپلندور Splendor 100ml، برند Seris، با رایحه خنک و شیرین، مناسب فصل بهار و تابستان",
+      "images": [
+        "/accessories/perfume/perfume2 (2).jpg"
+      ],
+      "colors": [
+        "#000"
+      ],
+      "sizes": [
+        "فیری سایز"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 20,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 86,
+      "category": "عطر و ادکلن",
+      "title": "ادکلن باکارات Barakkat 100ml",
+      "mainImage": "/accessories/perfume/perfume3 (1).jpg",
+      "price": 2350000,
+      "desc": "ادکلن باکارات Barakkat 100ml، برند Fragrance World، با رایحه گرم و شیرین، مشابه Baccarat Rouge، مناسب فصل پاییز، زمستان و بهار",
+      "images": [
+        "/accessories/perfume/perfume3 (2).jpg"
+      ],
+      "colors": [
+        "#c92325"
+      ],
+      "sizes": [
+        "فیری سایز"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 87,
+      "category": "عطر و ادکلن",
+      "title": "ادکلن نویر دِ ماکسیما Noir de maxima 100ml",
+      "mainImage": "/accessories/perfume/perfume4 (2).jpg",
+      "price": 2350000,
+      "desc": "ادکلن نویر دِ ماکسیما Noir de maxima 100ml، برند Emper، با رایحه تلخ و تند، مناسب فصل پاییز، زمستان و بهار",
+      "images": [
+        "/accessories/perfume/perfume4 (1).jpg"
+      ],
+      "colors": [
+        "#000"
+      ],
+      "sizes": [
+        "فیری سایز"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 88,
+      "category": "عطر و ادکلن",
+      "title": "ادکلن بلک لجندری Black legendary 100ml",
+      "mainImage": "/accessories/perfume/perfume5 (1).jpg",
+      "price": 2350000,
+      "desc": "ادکلن بلک لجندری Black legendary 100ml، برند Johnwin Jackwins، با رایحه خنک و شیرین، مشابه Mont Blanc Legend، مناسب فصل بهار و تابستان",
+      "images": [
+        "/accessories/perfume/perfume5 (2).jpg"
+      ],
+      "colors": [
+        "#000"
+      ],
+      "sizes": [
+        "فیری سایز"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 89,
+      "category": "عطر و ادکلن",
+      "title": "ادکلن مونت لئون لجند Monte Leone Legende 100ml",
+      "mainImage": "/accessories/perfume/perfume6 (1).jpg",
+      "price": 2350000,
+      "desc": "ادکلن مونت لئون لجند Monte Leone Legende 100ml، برند Fragrance World، با رایحه خنک و شیرین، مشابه Mont Blanc Legend، مناسب فصل بهار و تابستان",
+      "images": [
+        "/accessories/perfume/perfume6 (2).jpg"
+      ],
+      "colors": [
+        "#000"
+      ],
+      "sizes": [
+        "فیری سایز"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 90,
+      "category": "عطر و ادکلن",
+      "title": "ادکلن مرکور 02 marcure02 100 ml",
+      "mainImage": "/accessories/perfume/perfume7 (1).jpg",
+      "price": 2350000,
+      "desc": "ادکلن مرکور 02 marcure02 100 ml، برند Johnwin Jackwins، با رایحه خنک و تند، مشابه Escentric Molecules Escentric 02، مناسب فصل بهار و تابستان",
+      "images": [
+        "/accessories/perfume/perfume7 (2).jpg"
+      ],
+      "colors": [
+        "#000"
+      ],
+      "sizes": [
+        "فیری سایز"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": ""
+    },
+    {
+      "id": 91,
+      "category": "کمربند",
+      "title": "کمربند رسمی مردانه 38166",
+      "mainImage": "/accessories/belt/belt1 (1).jpg",
+      "price": 850000,
+      "desc": "کمربند رسمی با سگک استیل، چرم طبیعی",
+      "images": [
+        "/accessories/belt/belt1 (2).jpg"
+      ],
+      "colors": [
+        "#484b52"
+      ],
+      "sizes": [
+        "110",
+        "115",
+        "120",
+        "125",
+        "130"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 92,
+      "category": "کمربند",
+      "title": "کمربند روزمره 37279",
+      "mainImage": "/accessories/belt/belt2 (1).jpg",
+      "price": 750000,
+      "desc": "کمربند روزمره مردانه، جنس تلفیق بافت متراکم کشی و چرم طبیعی با کیفیت، مناسب برای تیپ های روزمره و اسپرت",
+      "images": [
+        "/accessories/belt/belt2 (2).jpg"
+      ],
+      "colors": [
+        "#846c49"
+      ],
+      "sizes": [
+        "110",
+        "115",
+        "120",
+        "125",
+        "130"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 93,
+      "category": "کمربند",
+      "title": "کمربند مردانه چرم 38177",
+      "mainImage": "/accessories/belt/belt3 (1).jpg",
+      "price": 1750000,
+      "desc": "کمربند مردانه چرم، با پهنا متوسط، دارای سگک استیل، جنس چرم طبیعی با کیفیت",
+      "images": [
+        "/accessories/belt/belt3 (2).jpg"
+      ],
+      "colors": [
+        "#9b6541"
+      ],
+      "sizes": [
+        "110",
+        "115",
+        "120",
+        "125",
+        "130"
+      ],
+      "quantity": 52,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 94,
+      "category": "کمربند",
+      "title": "کمربند بافت 37293",
+      "mainImage": "/accessories/belt/belt4 (2).jpg",
+      "price": 1750000,
+      "desc": "کمربند بافت کشی با سگک استیل، مناسب برای تیپ های روزمره، شیک و با کیفیت",
+      "images": [
+        "/accessories/belt/belt4 (1).jpg"
+      ],
+      "colors": [
+        "#000"
+      ],
+      "sizes": [
+        "110",
+        "115",
+        "120",
+        "125",
+        "130"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 95,
+      "category": "کمربند",
+      "title": "کمربند بافت 37284",
+      "mainImage": "/accessories/belt/belt5 (2).jpg",
+      "price": 1750000,
+      "desc": "کمربند بافت کشی با سگک استیل، مناسب برای تیپ های روزمره، اسپرت و با کیفیت",
+      "images": [
+        "/accessories/belt/belt5 (1).jpg"
+      ],
+      "colors": [
+        "#000"
+      ],
+      "sizes": [
+        "110",
+        "115",
+        "120",
+        "125",
+        "130"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 96,
+      "category": "کمربند",
+      "title": "کمربند مردانه چرم 37295",
+      "mainImage": "/accessories/belt/belt6 (1).jpg",
+      "price": 1750000,
+      "desc": "کمربند مردانه چرم، با پهنا متوسط، دارای سگک استیل، جنس چرم طبیعی با کیفیت",
+      "images": [
+        "/accessories/belt/belt6 (2).jpg"
+      ],
+      "colors": [
+        "#9d5e45"
+      ],
+      "sizes": [
+        "110",
+        "115",
+        "120",
+        "125",
+        "130"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 30,
+      "date": "10/17/2025",
+      "type": ""
+    },
+    {
+      "id": 97,
+      "category": "کمربند",
+      "title": "کمربند مردانه چرم 37295",
+      "mainImage": "/accessories/belt/belt7 (1).jpg",
+      "price": 1750000,
+      "desc": "کمربند مردانه چرم، با پهنا متوسط، دارای سگک استیل، جنس چرم طبیعی با کیفیت",
+      "images": [
+        "/accessories/belt/belt7 (2).jpg"
+      ],
+      "colors": [
+        "#000"
+      ],
+      "sizes": [
+        "110",
+        "115",
+        "120",
+        "125",
+        "130"
+      ],
+      "quantity": 53,
+      "rate": 3.5,
+      "discount": 0,
+      "date": "02/01/2026",
+      "type": ""
+    }
+  ],
+  "orders": [
+    {
+      "userID": 1,
+      "userName": "mamzi",
+      "userFirstname": "محمدرضا",
+      "userLastname": "کاویانی",
+      "items": [
+        {
+          "productID": 23,
+          "title": "شلوار جین بگ 24817",
+          "price": 3290000,
+          "mainImage": "/clothes/jin_li/jin_li2 (1).jpg",
+          "category": "شلوار لی",
+          "discount": 0,
+          "type": "bag",
+          "color": "#c8cdcf",
+          "size": "38",
+          "quantity": 1,
+          "userID": 1,
+          "id": 1
+        }
+      ],
+      "allPrice": 3380000,
+      "address": "محلات - ک قلعه",
+      "phone": "09223279491",
+      "date": "2026-02-22T09:49:27.595Z",
+      "id": 1
+    },
+    {
+      "userID": 4,
+      "userName": "admin",
+      "userFirstname": "ادمین",
+      "userLastname": "ادمین",
+      "items": [
+        {
+          "productID": 57,
+          "title": "کفش روزمره 44470",
+          "price": 3675000,
+          "mainImage": "/shoes/daily/daily2 (3).jpg",
+          "category": "کفش روزمره",
+          "discount": 30,
+          "type": "",
+          "color": "#607187",
+          "size": "43",
+          "quantity": 1,
+          "userID": 4,
+          "id": 1
+        }
+      ],
+      "allPrice": 3765000,
+      "address": "تهنت",
+      "phone": "09223279491",
+      "date": "2026-04-11T10:24:59.498Z",
+      "id": 2
+    },
+    {
+      "userID": 3,
+      "userName": "maryyy",
+      "userFirstname": "مریم",
+      "userLastname": "جمشیدی",
+      "items": [
+        {
+          "productID": 84,
+          "title": "ادکلن باکارات Barakkat 100ml",
+          "price": 2350000,
+          "mainImage": "/accessories/perfume/perfume1 (1).jpg",
+          "category": "عطر و ادکلن",
+          "discount": 0,
+          "type": "",
+          "color": "#c92325",
+          "size": "فیری سایز",
+          "quantity": 1,
+          "userID": 3,
+          "id": 1
+        }
+      ],
+      "allPrice": 2440000,
+      "address": "محلات",
+      "phone": "09223279491",
+      "date": "2026-04-11T12:17:50.804Z",
+      "id": 3
+    },
+    {
+      "userID": 4,
+      "userName": "admin",
+      "userFirstname": "ادمین",
+      "userLastname": "ادمین",
+      "items": [
+        {
+          "productID": 78,
+          "title": "کلاه نقاب دار 39436",
+          "price": 950000,
+          "mainImage": "/accessories/cap/cap2 (1).jpg",
+          "category": "کلاه",
+          "discount": 0,
+          "type": "",
+          "color": "#fff",
+          "size": "فیری سایز",
+          "quantity": 1,
+          "userID": 4,
+          "id": 1
+        },
+        {
+          "productID": 24,
+          "title": "شلوار جین اسکینی 10277",
+          "price": 2144000,
+          "mainImage": "/clothes/jin_li/jin_li3 (1).jpg",
+          "category": "شلوار لی",
+          "discount": 20,
+          "type": "skinny",
+          "color": "#57707d",
+          "size": "42",
+          "quantity": 1,
+          "userID": 4,
+          "id": 2
+        },
+        {
+          "productID": 13,
+          "title": "سویشرت شمعی کلاه دار 49182",
+          "price": 3450000,
+          "mainImage": "/clothes/hoodies/hoodi6 (1).jpg",
+          "category": "هودی و سوییشرت",
+          "discount": 0,
+          "type": "",
+          "color": "#505155",
+          "size": "L",
+          "quantity": 1,
+          "userID": 4,
+          "id": 3
+        },
+        {
+          "productID": 93,
+          "title": "کمربند مردانه چرم 38177",
+          "price": 1750000,
+          "mainImage": "/accessories/belt/belt3 (1).jpg",
+          "category": "کمربند",
+          "discount": 0,
+          "type": "",
+          "color": "#9b6541",
+          "size": "110",
+          "quantity": 1,
+          "userID": 4,
+          "id": 4
+        }
+      ],
+      "allPrice": 8294000,
+      "address": "tehran - tohid",
+      "phone": "09223279491",
+      "date": "2026-07-11T12:09:19.062Z",
+      "id": 4
+    },
+    {
+      "userID": 1,
+      "userName": "mamzii",
+      "userFirstname": "محمدرضا",
+      "userLastname": "کاویانی",
+      "items": [
+        {
+          "productID": 25,
+          "title": "شلوار جین اسکینی 10279",
+          "price": 2680000,
+          "mainImage": "/clothes/jin_li/jin_li4 (4).jpg",
+          "category": "شلوار لی",
+          "discount": 0,
+          "type": "skinny",
+          "color": "#000",
+          "size": "42",
+          "quantity": 1,
+          "userID": 1,
+          "id": 1
+        },
+        {
+          "productID": 6,
+          "title": "پیراهن کتی مردانه 52301",
+          "price": 2970000,
+          "mainImage": "/clothes/shirts/shirts6 (2).jpg",
+          "category": "پیراهن",
+          "discount": 0,
+          "type": "",
+          "color": "#000000",
+          "size": "XL",
+          "quantity": 1,
+          "userID": 1,
+          "id": 2
+        }
+      ],
+      "allPrice": 5650000,
+      "address": "محلات",
+      "phone": "09223279491",
+      "date": "2026-08-02T23:19:48.771Z",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "email": "mmd@gmail.com",
+      "password": "$2a$10$oZQ0AR1fptwVffJ73ZEiDumnPMRklVsbtKpYpTjK59og2Vq8AFiH.",
+      "firstName": "محمدرضا",
+      "lastName": "کاویانی",
+      "username": "mamzii",
+      "gender": "male",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "email": "reza@gmail.com",
+      "password": "$2a$10$3Q1O3JT9q4YoNS8n2Y5nNettr9he2nUIqC7fkecepWAbw8E8Gnbbi",
+      "firstName": "رضا",
+      "lastName": "رضایی",
+      "username": "rezaa",
+      "gender": "male",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "email": "maryam@gmail.com",
+      "password": "$2a$10$XkpBK0CBuofFuUdLBq67iOMOoVH0gcJMwHTO2Zo4sA9vKpoF1rs.K",
+      "firstName": "مریم",
+      "lastName": "جمشیدی",
+      "username": "maryyy",
+      "gender": "female",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "email": "reza@gmail.com",
+      "password": "$2a$10$clbHq4WY7ApIr1BFtFVGeOz36CtV2vafQjbG9wuSkz0cKnAr4Tkge",
+      "firstName": "رضا",
+      "lastName": "مجیدی",
+      "username": "reezzaa",
+      "gender": "male",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "email": "kiyarash@gmail.com",
+      "password": "$2a$10$clbHq4WY7ApIr1BFtFVGeOz36CtV2vlfQjbG9wuSkz0cKnAr4Tkge",
+      "firstName": "کیارش",
+      "lastName": "حسینی",
+      "username": "kiya",
+      "gender": "male",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "email": "sasan@gmail.com",
+      "password": "$2a$10$clbHq4WY7ApIr1BFtFVGeOz36CtV2vlfQjbG9wuSkz0cKnAr4Tkge",
+      "firstName": "ساسان",
+      "lastName": "محمدی",
+      "username": "SAsan",
+      "gender": "male",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "email": "elham@gmail.com",
+      "password": "$2a$10$clbHq4WY7ApIr1BFtFVGeOz36CtV2vlfQjbG9wuSkz0cKnAr4Tkge",
+      "firstName": "الهام",
+      "lastName": "خیبری",
+      "username": "eliii",
+      "gender": "female",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "email": "niyoosha@gmail.com",
+      "password": "$2a$10$clbHq4WY7ApIr1BFtFVGeOz36CtV2vlfQjbG9wuSkz0cKnAr4Tkge",
+      "firstName": "نیوشا",
+      "lastName": "محمدی",
+      "username": "niyoo",
+      "gender": "female",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "email": "zahra@gmail.com",
+      "password": "$2a$10$clbHq4WY7ApIr1BFtFVGeOz36CtV2vlfQjbG9wuSkz0cKnAr4Tkge",
+      "firstName": "زهرا",
+      "lastName": "محمدی",
+      "username": "zariii",
+      "gender": "female",
+      "role": "user",
+      "id": 9
+    },
+    {
+      "email": "zahra@gmail.com",
+      "password": "$2a$10$clbHq4WY7ApIr1BFtFVGeOz36CtV2vlfQjbG9wuSkz0cKnAr4Tkge",
+      "firstName": "زهرا",
+      "lastName": "محمدی",
+      "username": "zariii",
+      "gender": "female",
+      "role": "user",
+      "id": 10
+    }
+  ],
+  "sales": [
+    {
+      "id": 1,
+      "name": "فروردین",
+      "inStore": 30000000,
+      "online": 15000000,
+      "year": 1403
+    },
+    {
+      "id": 2,
+      "name": "اردیبهشت",
+      "inStore": 24000000,
+      "online": 11000000,
+      "year": 1403
+    },
+    {
+      "id": 3,
+      "name": "خرداد",
+      "inStore": 33000000,
+      "online": 10000000,
+      "year": 1403
+    },
+    {
+      "id": 4,
+      "name": "تیر",
+      "inStore": 39000000,
+      "online": 18000000,
+      "year": 1403
+    },
+    {
+      "id": 5,
+      "name": "مرداد",
+      "inStore": 29000000,
+      "online": 9000000,
+      "year": 1403
+    },
+    {
+      "id": 6,
+      "name": "شهریور",
+      "inStore": 41000000,
+      "online": 22000000,
+      "year": 1403
+    },
+    {
+      "id": 7,
+      "name": "مهر",
+      "inStore": 46000000,
+      "online": 28000000,
+      "year": 1403
+    },
+    {
+      "id": 8,
+      "name": "آبان",
+      "inStore": 33000000,
+      "online": 17000000,
+      "year": 1403
+    },
+    {
+      "id": 9,
+      "name": "آذر",
+      "inStore": 38000000,
+      "online": 20000000,
+      "year": 1403
+    },
+    {
+      "id": 10,
+      "name": "دی",
+      "inStore": 31000000,
+      "online": 19000000,
+      "year": 1403
+    },
+    {
+      "id": 11,
+      "name": "بهمن",
+      "inStore": 49000000,
+      "online": 30000000,
+      "year": 1403
+    },
+    {
+      "id": 12,
+      "name": "اسفند",
+      "inStore": 52000000,
+      "online": 35000000,
+      "year": 1403
+    },
+    {
+      "id": 13,
+      "name": "فروردین",
+      "inStore": 35000000,
+      "online": 20000000,
+      "year": 1404
+    },
+    {
+      "id": 14,
+      "name": "اردیبهشت",
+      "inStore": 28000000,
+      "online": 14000000,
+      "year": 1404
+    },
+    {
+      "id": 15,
+      "name": "خرداد",
+      "inStore": 38000000,
+      "online": 13000000,
+      "year": 1404
+    },
+    {
+      "id": 16,
+      "name": "تیر",
+      "inStore": 42000000,
+      "online": 22000000,
+      "year": 1404
+    },
+    {
+      "id": 17,
+      "name": "مرداد",
+      "inStore": 32000000,
+      "online": 12000000,
+      "year": 1404
+    },
+    {
+      "id": 18,
+      "name": "شهریور",
+      "inStore": 45000000,
+      "online": 26000000,
+      "year": 1404
+    },
+    {
+      "id": 19,
+      "name": "مهر",
+      "inStore": 50000000,
+      "online": 32000000,
+      "year": 1404
+    },
+    {
+      "id": 20,
+      "name": "آبان",
+      "inStore": 36000000,
+      "online": 19000000,
+      "year": 1404
+    },
+    {
+      "id": 21,
+      "name": "آذر",
+      "inStore": 41000000,
+      "online": 23000000,
+      "year": 1404
+    },
+    {
+      "id": 22,
+      "name": "دی",
+      "inStore": 34000000,
+      "online": 21000000,
+      "year": 1404
+    },
+    {
+      "id": 23,
+      "name": "بهمن",
+      "inStore": 53000000,
+      "online": 34000000,
+      "year": 1404
+    },
+    {
+      "id": 24,
+      "name": "اسفند",
+      "inStore": 57000000,
+      "online": 39000000,
+      "year": 1404
+    }
+  ]
+}
