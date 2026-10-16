@@ -16,7 +16,6 @@
     "cors": "^2.8.6",
     "express": "^5.3.0",
     "json-server": "^0.17.4",
-    "json-server-auth": "^2.1.0",
     "multer": "^2.4.0",
     "nodemon": "^3.1.14"
   }

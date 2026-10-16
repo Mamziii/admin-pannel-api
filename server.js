@@ -1,17 +1,12 @@
 const jsonServer = require("json-server");
-const auth = require("json-server-auth");
 const cors = require("cors");
 const multer = require("multer");
 const path = require("path");
 const fs = require("fs");
-const express = require("express");
 
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
-const rules = auth.rewriter(require("./routes.json"));
-
-server.db = router.db;
 
 const PORT = process.env.PORT || 3000;
 const BASE_URL = process.env.BASE_URL || `http://localhost:${PORT}`;
@@ -48,22 +43,21 @@ server.use(
   }),
 );
 
-server.use("/uploads", express.static(uploadDir));
+server.use("/uploads", require("express").static(uploadDir));
 server.use(middlewares);
 
 server.post("/upload", upload.single("file"), (req, res) => {
   if (!req.file) {
     return res.status(400).json({ success: false, message: "فایلی ارسال نشده" });
   }
-  const url = `${BASE_URL}/uploads/${req.file.filename}`;
-  res.json({ success: true, data: { url } });
+  res.json({
+    success: true,
+    data: { url: `${BASE_URL}/uploads/${req.file.filename}` },
+  });
 });
 
-server.use(rules);
-server.use(auth);
 server.use(router);
 
-// پارس‌پک: حتماً 0.0.0.0
 server.listen(PORT, "0.0.0.0", () => {
   console.log(`Server running on ${PORT}`);
 });
