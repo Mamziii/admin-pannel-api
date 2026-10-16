@@ -38,6 +38,7 @@ server.use(
     origin: [
       "http://localhost:5173",
       "https://admin-pannel-rose.vercel.app",
+      "https://admin-pannel-78j233ifb-me-e15a.vercel.app",
     ],
     credentials: true,
   }),
@@ -48,7 +49,9 @@ server.use(middlewares);
 
 server.post("/upload", upload.single("file"), (req, res) => {
   if (!req.file) {
-    return res.status(400).json({ success: false, message: "فایلی ارسال نشده" });
+    return res
+      .status(400)
+      .json({ success: false, message: "فایلی ارسال نشده" });
   }
   res.json({
     success: true,
